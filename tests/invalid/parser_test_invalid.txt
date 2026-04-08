@@ -1,0 +1,9 @@
+int x = ;
+
+int main( {
+    int y = 2
+    if (x < y) {
+        y = y + 1;
+    }
+    return y;
+}
